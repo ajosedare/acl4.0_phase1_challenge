@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ACL 4 Phase 1</string>
+    <string name="action_name_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_msg">Welcome to ACL 4.0</string>
+    <string name="track_label">track</string>
+    <string name="country_label">country</string>
+    <string name="email_name_label">email</string>
+    <string name="phoneno_label">phoneno</string>
+    <string name="slack_name_label">Slack Name</string>
+
+    <string name="track_value">Android</string>
+    <string name="country_value">nigeria</string>
+    <string name="email_name_value">ajosedare@gail.com</string>
+    <string name="phoneno_value">2348167356779</string>
+    <string name="slack_name_value">a@ajose</string>
+</resources>
